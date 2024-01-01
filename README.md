@@ -11,6 +11,8 @@ Colorful Steps is a leap-forward progression game where players face two boxes, 
 - **Chance-based Steps**: Occasionally, an orange box introduces a step that relies on chance.
 - **Level-based Progression**: The game progresses through various levels, introducing new challenges and patterns.
 
+## In-game screenshots
+
 <div style="display:flex;">
 <img src="https://github.com/okanyavuz/Life-or-Death/assets/74764950/e4d1f292-3b17-47fc-9b53-c86e63fef0e2" width=45%>
 <img src="https://github.com/okanyavuz/Life-or-Death/assets/74764950/518e813e-69cc-48ae-ae96-5027f7c05b14" width=45%>
